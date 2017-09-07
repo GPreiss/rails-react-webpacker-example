@@ -8,6 +8,8 @@ gem 'pg'
 gem 'puma'
 gem 'rails', '5.1.4.rc1'
 gem 'redis'
+gem 'webpacker', '~> 3.0'
+gem 'acts_as_votable'
 
 gem 'autoprefixer-rails'
 gem 'bootstrap-sass'
